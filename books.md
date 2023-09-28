@@ -4,7 +4,7 @@
 
 - Huckleberry Finn, Mark Twain
 
-- atch-22, Joseph Heller
+- Catch-22, Joseph Heller
 
 - Anna Karenina, Tolstoy
 
