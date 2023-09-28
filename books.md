@@ -6,7 +6,7 @@
 
 -Catch-22, Joseph Heller
 
--Ana Karenia, Tolstoy
+-Anna Karenina, Tolstoy
 
 ## Esther's Favorite Books
 -Medea, Euripides
