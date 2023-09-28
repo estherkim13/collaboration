@@ -2,11 +2,11 @@
 
 ## Avery's Favorite Books
 
--Huckleberry Finn, Mark Twain
+- Huckleberry Finn, Mark Twain
 
--Catch-22, Joseph Heller
+- atch-22, Joseph Heller
 
--Anna Karenina, Tolstoy
+- Anna Karenina, Tolstoy
 
 ## Esther's Favorite Books
 - Medea, Euripides
