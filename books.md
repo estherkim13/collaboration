@@ -9,8 +9,8 @@
 -Anna Karenina, Tolstoy
 
 ## Esther's Favorite Books
--Medea, Euripides
+- Medea, Euripides
 
--Antigone, Sophocles
+- Antigone, Sophocles
 
--Phaedra, Racine
+- Phaedra, Racine
