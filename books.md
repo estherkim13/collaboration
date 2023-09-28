@@ -6,6 +6,8 @@ Catch-22, Joseph Heller
 Ana Karenia, Tolstoy
 
 ## Esther's Favorite Books
-Medea, Euripides
-Antigone, Sophocles
-Phaedra, Racine
+-Medea, Euripides
+
+-Antigone, Sophocles
+
+-Phaedra, Racine
